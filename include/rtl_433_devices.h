@@ -95,6 +95,7 @@
     DECL(generic_motion) \
     DECL(tpms_toyota) \
     DECL(tpms_ford) \
+    DECL(tpms_elantra2012) \
     DECL(tpms_renault) \
     DECL(infactory) \
     DECL(ft004b) \
